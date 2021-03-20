@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1616248319 source:d:\repos\datastructure\graph\main.c
+	<windows.h>
+	<stdio.h>
+	"main.h"
+
+1616244072 d:\repos\datastructure\graph\main.h
+	<stdio.h>
+	<windows.h>
+	"dfsAdjList.h"
+	"bfsAdjList.h"
+	"buildAdjacencyList.h"
+
+1616228391 d:\repos\datastructure\graph\buildadjacencylist.h
+	"struct.h"
+	<stdio.h>
+
+1616245940 d:\repos\datastructure\graph\dfsadjlist.h
+	"struct.h"
+	<stdio.h>
+
+1616246500 source:d:\repos\datastructure\graph\bfsadjlist.c
+	"bfsAdjList.h"
+
+1616212340 source:d:\repos\datastructure\graph\buildadjacencylist.c
+	<stdio.h>
+	<stdlib.h>
+	"buildAdjacencyList.h"
+
+1616248310 source:d:\repos\datastructure\graph\dfsadjlist.c
+	"dfsAdjList.h"
+
+1616228411 d:\repos\datastructure\graph\struct.h
+
+1616244016 d:\repos\datastructure\graph\bfsadjlist.h
+	<stdio.h>
+	"struct.h"
+
